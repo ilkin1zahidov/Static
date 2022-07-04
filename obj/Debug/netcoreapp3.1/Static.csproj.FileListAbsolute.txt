@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Static\bin\Debug\netcoreapp3.1\Static.exe
+C:\Users\Windows\source\repos\Static\bin\Debug\netcoreapp3.1\Static.deps.json
+C:\Users\Windows\source\repos\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.json
+C:\Users\Windows\source\repos\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\Static\bin\Debug\netcoreapp3.1\Static.dll
+C:\Users\Windows\source\repos\Static\bin\Debug\netcoreapp3.1\Static.pdb
+C:\Users\Windows\source\repos\Static\obj\Debug\netcoreapp3.1\Static.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Static\obj\Debug\netcoreapp3.1\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Static\obj\Debug\netcoreapp3.1\Static.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Static\obj\Debug\netcoreapp3.1\Static.dll
+C:\Users\Windows\source\repos\Static\obj\Debug\netcoreapp3.1\Static.pdb
+C:\Users\Windows\source\repos\Static\obj\Debug\netcoreapp3.1\Static.genruntimeconfig.cache
